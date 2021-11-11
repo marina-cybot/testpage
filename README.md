@@ -1,1 +1,1 @@
-# https://marina-cybot.github.io/testpage/index.html
+# https://marina-cybot.github.io/testpage/
